@@ -1,0 +1,87 @@
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\appsettings.Development.json
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\appsettings.json
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Finanzas APP.staticwebassets.runtime.json
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Finanzas APP.exe
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Finanzas APP.deps.json
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Finanzas APP.runtimeconfig.json
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Finanzas APP.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Finanzas APP.pdb
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Azure.Core.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Azure.Identity.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Humanizer.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\System.CodeDom.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\System.Memory.Data.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\System.Text.Json.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\Finanzas APP.csproj.AssemblyReference.cache
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\Finanzas APP.GeneratedMSBuildEditorConfig.editorconfig
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\Finanzas APP.AssemblyInfoInputs.cache
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\Finanzas APP.AssemblyInfo.cs
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\Finanzas APP.csproj.CoreCompileInputs.cache
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\Finanzas APP.MvcApplicationPartsAssemblyInfo.cache
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\Finanzas APP.RazorAssemblyInfo.cache
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\Finanzas APP.RazorAssemblyInfo.cs
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\staticwebassets.build.json
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\staticwebassets.development.json
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\scopedcss\bundle\Finanzas APP.styles.css
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\scopedcss\projectbundle\Finanzas APP.bundle.scp.css
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\Finanzas APP.csproj.CopyComplete
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\Finanzas APP.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\refint\Finanzas APP.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\Finanzas APP.pdb
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\Finanzas APP.genruntimeconfig.cache
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\ref\Finanzas APP.dll
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\staticwebassets\msbuild.Finanzas APP.Microsoft.AspNetCore.StaticWebAssets.props
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\staticwebassets\msbuild.build.Finanzas APP.props
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Finanzas APP.props
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Finanzas APP.props
+E:\CICLO VIII\CALIDAD Y PRUEBAS DE SOFTWARE\Finanzas APP\Finanzas APP\obj\Debug\net6.0\staticwebassets.pack.json

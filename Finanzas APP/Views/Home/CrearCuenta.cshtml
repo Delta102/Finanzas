@@ -1,0 +1,24 @@
+﻿@model Finanzas_APP.Models.Cuenta
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crear Cuenta</title>
+</head>
+<body>
+    <form method="post">
+        <div>
+            <input asp-for="Nombre" type="text" placeholder="Nombre"></input>
+        </div>
+
+        <div>
+            <input asp-for="SaldoInicial" type="number" placeholder="SaldoInicial"></input>
+        </div>
+
+        <button type="submit">Crear</button>
+    </form>
+</body>
+</html>
